@@ -1,59 +1,60 @@
-# Challenge Amigo Secreto
+# Secret Santa Challenge
 
-O **Challenge Amigo Secreto** é um projeto simples para realizar sorteios de amigo secreto, onde os usuários podem adicionar amigos à lista e, ao clicar no botão de sorteio, ver quem tirou quem de forma aleatória.
+The **Secret Santa Challenge** is a simple project to conduct Secret Santa draws, where users can add friends to the list and, by clicking the draw button, see who got whom randomly.
 
-Este projeto foi desenvolvido usando **HTML**, **CSS** e **JavaScript** para proporcionar uma experiência simples e rápida de sorteio de amigos secretos.
+This project was developed using **HTML**, **CSS**, and **JavaScript** to provide a simple and fast Secret Santa drawing experience.
 
-## Funcionalidades
+## Features
 
-- **Adicionar amigos**: O usuário pode adicionar o nome de amigos à lista para o sorteio.
-- **Exibir lista de amigos**: Todos os amigos adicionados são exibidos em uma lista.
-- **Sortear amigo secreto**: Ao clicar no botão "Sortear amigo", a aplicação realiza o sorteio de amigo secreto e mostra o resultado.
-- **Interface interativa**: A aplicação tem uma interface limpa e fácil de usar, permitindo adicionar nomes e realizar o sorteio com facilidade.
+- **Add friends**: Users can add friends' names to the list for the draw.
+- **Display friends list**: All added friends are shown in a list.
+- **Draw Secret Santa**: By clicking the "Draw friend" button, the app performs the Secret Santa draw and shows the results.
+- **Interactive interface**: The app has a clean and easy-to-use interface, allowing users to add names and perform the draw effortlessly.
 
-## Como Usar
+## How to Use
 
-Siga os passos abaixo para utilizar o projeto **Amigo Secreto**:
+Follow the steps below to use the **Secret Santa** project:
 
-### 1. Baixar ou Clonar o Repositório
+1. **Download or Clone the Repository**
 
-Você pode obter o código do projeto de duas maneiras:
+   You can obtain the project code in two ways:
 
-- **Clonar o repositório via Git**:
+   - **Clone the repository via Git**:
 
-  Caso tenha o Git instalado, execute o seguinte comando para clonar o repositório:
+     If you have Git installed, run the following command to clone the repository:
 
-  ```bash
-  git clone https://github.com/seu-usuario/amigo-secreto.gitt
-  ### 2. Abrir o Projeto no Navegador
+     ```bash
+     git clone https://github.com/your-username/secret-santa.git
+     ```
 
-Após obter os arquivos do projeto, abra o arquivo `index.html` diretamente no seu navegador preferido. Não é necessário configurar servidores ou instalar dependências adicionais, pois o projeto foi desenvolvido para funcionar localmente no navegador.
+2. **Open the Project in Your Browser**
 
-### 3. Adicionar Nomes dos Amigos
+   After getting the project files, open the `index.html` file directly in your preferred browser. There is no need to set up servers or install additional dependencies, as the project is designed to run locally in the browser.
 
-1. No campo de entrada **"Digite um nome"**, insira o nome de um amigo que participará do sorteio.
+3. **Add Friends' Names**
 
-2. Clique no botão **Adicionar** para incluir o nome na lista de amigos.
+   1. In the **"Enter a name"** input field, type the name of a friend who will participate in the draw.
 
-A cada novo nome adicionado, ele será automaticamente exibido na lista logo abaixo do campo de entrada.
+   2. Click the **Add** button to include the name in the friends list.
 
-### 4. Exibir a Lista de Amigos
+   Each newly added name will automatically appear in the list just below the input field.
 
-Após adicionar os nomes dos amigos, você verá a lista de amigos sendo atualizada dinamicamente abaixo do campo de entrada. A lista exibe todos os amigos que foram adicionados, permitindo que você visualize os participantes do sorteio antes de realizar o sorteio.
+4. **View the Friends List**
 
-### 5. Realizar o Sorteio
+   After adding friends’ names, the friends list will be dynamically updated below the input field. The list shows all added friends, allowing you to review the participants before performing the draw.
 
-1. Clique no botão **Sortear amigo** para realizar o sorteio.
-2. A aplicação irá automaticamente sortear os amigos e exibir o resultado de quem tirou quem na tela.
+5. **Perform the Draw**
 
-O sorteio será exibido de forma clara, mostrando quem é o amigo secreto de cada participante.
+   1. Click the **Draw friend** button to perform the draw.
 
-### 6. Problemas Comuns e Soluções
+   2. The application will randomly assign Secret Santas and display the results on the screen.
 
-- **"A lista de amigos está vazia!"**: Este erro ocorre quando você tenta realizar o sorteio sem ter adicionado amigos à lista. Para resolver isso, adicione pelo menos dois amigos à lista antes de clicar em **Sortear amigo**.
-  
-- **"Por favor, insira um nome válido."**: Este erro ocorre quando o campo de nome é deixado vazio ou contém apenas espaços em branco. Certifique-se de que o campo de entrada contém um nome válido antes de clicar em **Adicionar**.
+   The draw results will be clearly shown, indicating who is each participant's Secret Santa.
 
+6. **Common Issues and Solutions**
 
+   - **"The friends list is empty!"**: This error occurs if you try to perform the draw without adding any friends. To fix this, add at least two friends to the list before clicking **Draw friend**.
+
+   - **"Please enter a valid name."**: This error occurs if the name input field is left empty or contains only whitespace. Make sure the input field contains a valid name before clicking **Add**.
 
 
