@@ -1,23 +1,6 @@
-## Alan's Space 👋 <a href="https://www.linkedin.com/in/allanpxao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> 
+# Challenge Amigo Secreto
 
-Olá! Alan Santos aqui. Bem-vindo ao meu Espaço de Estudo no GitHub!
-
-Sou apenas um entusiasta apaixonado por Análise de Dados.
-
-🔭 Atualmente, estou trabalhando com Inteligência de Mercado na ClearSale
-
-🌱 Estou aprendendo sobre Ciência de Dados
-
-👯 Estou buscando colaborar em projetos que possam me proporcionar mais oportunidades de aprendizado em Ciência de Dados
-
-📫 Como me contatar: Fique à vontade para me enviar uma mensagem ou me conectar no Linkedin. Responderei assim que possível!
-
-⚡ Curiosidade: Eu adoro aprender coisas novas!
-
-# Amigo Secreto
-
-O **Amigo Secreto** é um projeto simples para realizar sorteios de amigo secreto, onde os usuários podem adicionar amigos à lista e, ao clicar no botão de sorteio, ver quem tirou quem de forma aleatória.
+O ** Challenge Amigo Secreto** é um projeto simples para realizar sorteios de amigo secreto, onde os usuários podem adicionar amigos à lista e, ao clicar no botão de sorteio, ver quem tirou quem de forma aleatória.
 
 Este projeto foi desenvolvido usando **HTML**, **CSS** e **JavaScript** para proporcionar uma experiência simples e rápida de sorteio de amigos secretos.
 
