@@ -1,6 +1,6 @@
 # Challenge Amigo Secreto
 
-O ** Challenge Amigo Secreto** é um projeto simples para realizar sorteios de amigo secreto, onde os usuários podem adicionar amigos à lista e, ao clicar no botão de sorteio, ver quem tirou quem de forma aleatória.
+O **Challenge Amigo Secreto** é um projeto simples para realizar sorteios de amigo secreto, onde os usuários podem adicionar amigos à lista e, ao clicar no botão de sorteio, ver quem tirou quem de forma aleatória.
 
 Este projeto foi desenvolvido usando **HTML**, **CSS** e **JavaScript** para proporcionar uma experiência simples e rápida de sorteio de amigos secretos.
 
